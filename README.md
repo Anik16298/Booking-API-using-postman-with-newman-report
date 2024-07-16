@@ -1,6 +1,4 @@
-# API Testing Project: Booking_API
-
-# **API Testing Project: Booking ID**
+# **API Testing Project: Booking_API**
 
 This repository showcases API testing for booking functionalities using Postman and Newman. The focus is on creating, retrieving, updating, and deleting bookings through specific API endpoints.
 
