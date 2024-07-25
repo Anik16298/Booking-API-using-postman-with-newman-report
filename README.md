@@ -10,7 +10,7 @@ This repository showcases API testing for booking functionalities using Postman 
 
 ## **Testing Coverage:**
 
-#### **CRUD Operations:** The project encompasses tests for the following functionalities :
+#### **CRUD Operations:** The project encompasses tests for the following functionalities -
 
 Create Booking (POST)
 
