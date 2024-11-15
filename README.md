@@ -26,8 +26,6 @@ Delete Booking(DELETE)
 
 Checking After Delete Booking (GET)
 
-Handle array-based data (example)
-
 **Booking_Id_api_tests:** This file describes the API testing project.
 
 **Postman_Collections:** This folder holds Postman collections for different testing scenarios.
