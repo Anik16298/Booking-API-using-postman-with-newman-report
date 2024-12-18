@@ -81,6 +81,11 @@ Environment is used to store and manage variables that can be used across reques
 
 <img width="675" alt="Environment" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Postman_Environment.png">
 
+## **Newman_RunCommand**
+Newman Run Command is used to execute API collections from the command line using the Newman tool. It allows users to automate the execution of tests, run them in CMD pipelines, and generate detailed reports, enhancing the efficiency and scalability of API testing processes.
+
+<img width="675" alt="Newman_RunComand" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Newman_Command.png">
+
 ## **Newman_Report**
 Newman report" feature is used to generate detailed test reports for API collections run using the Newman command-line tool. It provides a summary of test results, including pass/fail statuses, response times, and error details, allowing users to analyze and share test results with team members or stakeholders.
 
@@ -88,7 +93,4 @@ Newman report" feature is used to generate detailed test reports for API collect
 
 <img width="675" alt="Newman_Report2" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Postman_Report.png">
 
-## **Newman_RunCommand**
-Newman Run Command is used to execute API collections from the command line using the Newman tool. It allows users to automate the execution of tests, run them in CMD pipelines, and generate detailed reports, enhancing the efficiency and scalability of API testing processes.
 
-<img width="675" alt="Newman_RunComand" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Newman_Command.png">
