@@ -26,6 +26,8 @@ Delete Booking(DELETE)
 
 Checking After Delete Booking (GET)
 
+## **Files/Folders Info:**
+
 **Batch-26.postman_environment.json:** This file holds my postman test project environment data.
 
 **Batch_26.postman_collection.json:** This file holds Postman collections of my different testing scenarios.
