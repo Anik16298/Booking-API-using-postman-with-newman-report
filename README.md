@@ -2,13 +2,13 @@
 
 This repository showcases API testing for booking functionalities using Postman and Newman. The focus is on creating, retrieving, updating, and deleting bookings through specific API endpoints.
 
-## **Testing Tools:**
+## **Testing Tools**
 
 **Postman:** Used for sending API requests, managing test collections, and inspecting responses.
 
 **Newman:**  Utilized to run tests from the command line and generate reports in different formats (e.g., HTML, JSON).
 
-## **Testing Coverage:**
+## **Testing Coverage**
 
 #### **CRUD Operations:** The project encompasses tests for the following functionalities ->
 
@@ -26,7 +26,7 @@ Delete Booking(DELETE)
 
 Checking After Delete Booking (GET)
 
-## **Files/Folders Info:**
+## **Files/Folders Info**
 
 **Batch-26.postman_environment.json:** This file holds my postman test project environment data.
 
