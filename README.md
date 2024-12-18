@@ -36,6 +36,7 @@ Checking After Delete Booking (GET)
 
 **Newman_Report:** This folder contains Newman-generated test reports.
 
+## **My API testing Coverage**
 ## **Create_Booking**
 Create Booking is typically used to send a POST request to a server to create a new booking or reservation. This POST request includes the necessary data (such as Guest details, Price, Dates, Needs etc.) in the request body, allowing the server to process and create a new booking entry in its database.
 
