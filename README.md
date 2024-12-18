@@ -6,7 +6,7 @@ This repository showcases API testing for booking functionalities using Postman 
 
 **Postman:** Used for sending API requests, managing test collections, and inspecting responses.
 
-**Newman:**  Utilized for running tests from the command line and generating reports in different formats (e.g., HTML, JSON).
+**Newman:**  Utilized to run tests from the command line and generate reports in different formats (e.g., HTML, JSON).
 
 ## **Testing Coverage:**
 
@@ -26,9 +26,11 @@ Delete Booking(DELETE)
 
 Checking After Delete Booking (GET)
 
-**Booking_Id_api_tests:** This file describes the API testing project.
+**Batch-26.postman_environment.json:** This file holds my postman test project environment data.
 
-**Postman_Collections:** This folder holds Postman collections for different testing scenarios.
+**Batch_26.postman_collection.json:** This file holds Postman collections of my different testing scenarios.
+
+**Newman_Command.txt:** This file contains Newman reports generate commands.
 
 **Newman_Report:** This folder contains Newman-generated test reports.
 
