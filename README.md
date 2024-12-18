@@ -36,8 +36,8 @@ Checking After Delete Booking (GET)
 
 **Newman_Report:** This folder contains Newman-generated test reports.
 
-## **My API testing Coverage**
-## **Create_Booking**
+## **My API Testing Coverage**
+## **Create_Booking:**
 Create Booking is typically used to send a POST request to a server to create a new booking or reservation. This POST request includes the necessary data (such as Guest details, Price, Dates, Needs etc.) in the request body, allowing the server to process and create a new booking entry in its database.
 
 <img width="675" alt="Create Body" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Create_Booking.png">
@@ -46,32 +46,32 @@ Create Booking is typically used to send a POST request to a server to create a 
 
 <img width="675" alt="Create_postrequest script" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Post_Request.png">
 
-## **Get_Booking**
+## **Get_Booking:**
 In Postman, a GET method is used to retrieve data from a server or API endpoint. It fetches information from the server without modifying anything, allowing users to view or read data such as user profiles, product listings, or any other resource available on the server.
 
 <img width="675" alt="Get" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Get_Booking.png">
 
-## **User_Auth(Token)**
+## **User_Auth(Token):**
 In Postman, an Auth method is used to authenticate and authorize access to protected resources on a server or API endpoint. It allows users to include authentication tokens, API keys, or credentials in the request headers to verify their identity and gain access to restricted data or operations.
 
 <img width="675" alt="Auth" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/User_Auth.png">
 
-## **Update_Booking**
+## **Update_Booking:**
  Update method is used to send a PUT or PATCH request to a server to modify existing data or resources. It allows users to update specific fields or properties of a resource without replacing the entire resource, ensuring efficient and targeted updates to the server's data.
  
  <img width="675" alt="Updatebooking" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Update_Booking.png">
 
-## **Verify_Update**
+## **Verify_Update:**
 verify update request API" is used to confirm the successful update of a resource. It involves sending a PUT or PATCH request to modify the resource and then sending a subsequent GET request to ensure that the changes have been applied correctly on the server. This verification step helps ensure the accuracy and completion of the update process.
 
  <img width="675" alt="Verifyupdate" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Verify_Update.png">
 
-## **Delete_Booking**
+## **Delete_Booking:**
 Delete method is used to send a request to a server or API endpoint to remove a specific resource. It allows users to delete data entries, records, or other resources from the server's database or storage, effectively removing them from the system.
 
 <img width="675" alt="Delete" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Delete_Booking.png">
 
-## **Verify_Delete**
+## **Verify_Delete:**
 Verify delete method" is typically used to confirm the successful deletion of a resource. It involves sending a DELETE request to remove the resource and then sending a subsequent GET request to ensure that the resource has been properly deleted from the server. This verification step helps ensure the accuracy and completion of the deletion process.
 
 <img width="675" alt="Verifydelete" src="https://github.com/Anik16298/Booking_API/blob/907ced4acdaad7f80325023b7fceaf143cec5c98/Screen_Shot/Verify_Delete.png">
